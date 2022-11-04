@@ -1,0 +1,5 @@
+2)Tuplas - Funciona como uma varivel a difereçã é que uma tupla é imutavel
+Listas - É uma estrutura que armazena dados em uma sequencia e você pode
+acessar elas chamando pela ordem da sequência.
+Dicionario - São estruturas que compreendem um conjunto de pares:CHAVES
+Cada chave individual possui um valor associado
