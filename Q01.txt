@@ -1,0 +1,6 @@
+1)Legibilidade - Facilidade de leitura e entendimento de programas
+escritos em uma determinada linguagem.
+Facilidade de escrita - É facil de escrever os codigo diferente de uma
+linguagem de baixo nivel
+Confiabilidade -Considera-se um programa confiável quando executa o que foi
+atribuído de modo esperado, sobre quaisquer condições.
